@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<EntityDescriptor entityID="https://kioninformation-dev1.cpq.cloud.sap/" xmlns="urn:oasis:names:tc:SAML:2.0:metadata">
+<EntityDescriptor entityID="https://login-dev.kion.cloud/23ee78ff-0796-4634-a388-8e923e90e934" xmlns="urn:oasis:names:tc:SAML:2.0:metadata">
     <SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
         <KeyDescriptor use="signing">
             <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
